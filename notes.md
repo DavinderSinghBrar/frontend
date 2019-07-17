@@ -6,3 +6,7 @@
     `$ sudo npm i -g @vue/cli `  *sudo* if mac user
     
      $ vue create my_vue_project
+
+     >Choose options manually
+
+     
