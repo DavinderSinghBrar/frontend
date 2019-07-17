@@ -3,9 +3,9 @@
 ## Installing vue cli with npm 
   > Using VSCode 
 ```
-  $ sudo npm i -g @vue/cli   
+  $ sudo npm i -g @vue/cli    [SUDO if mac user]
 ```  
-  **sudo** if mac user
+  
    
 ## Create vue project
 ``` 
